@@ -85,15 +85,15 @@ Or on Ubuntu:
 
 
 ## Screenshots
-input :"People can enjoy boating in the lake, either in normal or luxury boats."
+input :"பயணச்சீட்டு பரிசோதகரின் விரைவான பதில் மற்றும் மருத்துவ அவசரநிலையைச் சமாளிப்பதற்கான தயார்நிலை, நீண்ட தூர ரயில் பயணத்தின் போது மாரடைப்பால் பாதிக்கப்பட்ட ஒரு வயதான பயணியின் உயிரைக் காப்பாற்றியது."
 ![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
 
 
-input :"The first boat  was brought to the lake from Tuticorin."
+input :"பிஹாரின் தர்பங்காவில் இருந்து உத்தரபிரதேச மாநிலம் வாரணாசிக்கு பவன் எக்ஸ்பிரஸின் முதல் வகுப்பு பெட்டியில் பிபி கர்ணும் அவரது சகோதரரும் சென்று கொண்டிருந்தனர்."
 ![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
 
 
-input :"There is also a Kodaikanal Boat Club."
+input :"ரொக்கப் பரிசும் அறிவிக்கப்பட்டுள்ளது."
 ![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
