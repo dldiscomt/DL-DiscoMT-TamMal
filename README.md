@@ -86,15 +86,15 @@ Or on Ubuntu:
 
 ## Screenshots
 input :"People can enjoy boating in the lake, either in normal or luxury boats."
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-37-03.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
 
 
 input :"The first boat  was brought to the lake from Tuticorin."
-![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-38-40.png?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
 
 
 input :"There is also a Kodaikanal Boat Club."
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2016-08-46.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
 ## Demo
